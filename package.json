@@ -1,0 +1,40 @@
+{
+  "name": "foodie-ghar",
+  "version": "1.0.0",
+  "description": "foodie ghar is a restaurant manegement website",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^10.4.5",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.2",
+    "google-map-react": "^2.1.10",
+    "google-maps-react": "^2.0.6",
+    "react": "^16.14.0",
+    "react-dom": "^16.5.2",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^5.0.1",
+    "reactstrap": "^6.5.0",
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "vishal mishra",
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
